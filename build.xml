@@ -1,4 +1,6 @@
 <project name="pinch" default="dist">
+
+<html>new changes</html>
 	<description>
 		Ant build script for Titanium Android module multitouch
 	</description>
