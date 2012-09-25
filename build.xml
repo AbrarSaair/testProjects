@@ -1,5 +1,5 @@
 <project name="pinch" default="dist">
-
+This is new line
 <html>new changes</html>
 	<description>
 		Ant build script for Titanium Android module multitouch
